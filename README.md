@@ -1,8 +1,8 @@
-# HEY PEOPLE 
 
-A coder to code
-I’m currently learning ... Machine learning using python 
-Looking for help with ... Linear Algebra and algorithms in ML
-💬 Ask me about ... WEB DEVELOPMENT, BLOCKCHAIN AND OS 
-📫 How to reach me: ... kumarharshraj6@gmail.com
-Linkedln profile: https://www.linkedin.com/in/kumar-harsh-raj-962a06185/
+
+🌱 I’m currently learning ... Machine learning using python
+🤔 I’m looking for help with ... Linear Algebra for ML
+💬 Ask me about ... Blockchain, IoT, Web Development
+📫 How to reach me: ... kumarharshraj6@gmail.com.com
+📫 Linkedln : https://www.linkedin.com/in/kumar-harsh-raj-962a06185/
+😄 Pronouns: ... He/Him/His
